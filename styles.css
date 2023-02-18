@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+table,td,th,tr{
+	border:1px solid black;
+	margin:1px;
+}
+table table{
+	text-align:center;
+	width:100%;
+     
+}
+.bg{
+	background-color:rgb(0,0,0);
+	color:white;
+}
